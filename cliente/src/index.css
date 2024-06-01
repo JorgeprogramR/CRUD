@@ -1,0 +1,10 @@
+/* el estilo de la web lo importaremos desde tailwindcss */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background:#707070;
+    color: white;
+}
+
